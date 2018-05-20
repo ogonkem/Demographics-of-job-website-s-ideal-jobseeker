@@ -1,5 +1,5 @@
 # Question 1:
-What is the demographics of careergong.com's ideal jobseeker (define our ideal customer)
+What is the demographics of a Nigerian job website's ideal jobseeker (define our ideal customer)
 
 # Data source:
 Existing Nigerian Job Website
